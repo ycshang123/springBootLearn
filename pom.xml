@@ -8,8 +8,11 @@
     <name>spring-boot-learning</name>
     <packaging>pom</packaging>
 
-   <modules>
-    <module>spring-boot-aop</module>
-   </modules>
+    <modules>
+        <module>spring-boot-aop</module>
+        <module>spring-boot-mybatis-plus</module>
+    </modules>
+
+
 
 </project>
